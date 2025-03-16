@@ -1,3 +1,9 @@
+Ce projet a été fait en groupe, je me suis occupée des pages des chambres et des formules. Notre groupe était composé de : 
+-  Nacera Foudi
+-  Thomas Gérard
+-  Andrea Michel
+-  Et moi-même
+
 # Le gite hurle
 
 Établissement d'un site web pour le gîte Hûrle, une auberge située dans la région du Mont Lozère. Expérience utilisateur intuitive et fonctionnelle sont les mots d'ordre de la facette publique tandis que la page administration se veut claire et efficace.
